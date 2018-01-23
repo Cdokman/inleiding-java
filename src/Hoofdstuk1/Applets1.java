@@ -15,6 +15,7 @@ public class Applets1 extends Applet {
         g.drawString("Cyrano", 50, 60 );
         g.setColor(Color.red);
         g.drawString("Dokman", 50, 70 );
+        lol
     }
 
 }
