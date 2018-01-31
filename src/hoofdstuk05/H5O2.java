@@ -15,9 +15,9 @@ public class H5O2 extends Applet {
     public void init() {
         setSize(1000,1000);
         nulpunt=300;
-        lengteValerie= 20;
-        lengteJeroen= 20;
-        lengteHans= 20;
+        lengteValerie= 80;
+        lengteJeroen= 60;
+        lengteHans= 100;
 
               }
 
